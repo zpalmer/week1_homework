@@ -1,0 +1,8 @@
+Labwork Part 2 - Git Practice
+
+Please check out a new branch "your_name".
+Fill out the information for the labwork.
+Push up your changes and open a new pull request.
+If you have any issues, please contact me or Casey!
+
+
