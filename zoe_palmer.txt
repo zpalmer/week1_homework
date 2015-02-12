@@ -1,4 +1,5 @@
 Zoe
-Hoping to get a good working knowledge of Ruby and a solid base for future learning! I also really like programming, so I’m hoping to have fun getting back into it.
-Current Occupation: Tech Support
+Expectations: Hoping to get a good working knowledge of Ruby and a solid base for future learning! I also really like programming, so I’m hoping to have fun getting back into it.
+Current occupation: Tech Support
 Interesting fact: I practice archery (originally, my dad taught me in our back yard…now that I don’t have a back yard, I go to a range :D)
+App: Maybe a writing app—a place to keep track of the stories I’m working on currently, including notes, version-tracking, and reminders to work on things.
